@@ -1,0 +1,132 @@
+{
+  "seller": [
+    {
+      "name": "Nitish",
+      "email": "nitish@gmail.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Nitish01",
+      "email": "nitish@gmail.com",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "bottles",
+      "price": "5000",
+      "color": "yellow",
+      "category": "bottle",
+      "description": "nice bottle",
+      "image": "https://www.junglescout.com/wp-content/uploads/2021/01/product-photo-water-bottle-hero.png",
+      "id": 7
+    },
+    {
+      "name": "laptop",
+      "price": "18000",
+      "color": "gray",
+      "category": "electronics",
+      "description": "most demanding phone in the world",
+      "image": "https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/assets/images/products/s5.jpg",
+      "id": 8
+    },
+    {
+      "name": "I Phone 14",
+      "price": "15000",
+      "color": "gray",
+      "category": "electronics",
+      "description": "most demanding phone in the world",
+      "image": "https://n.vodafone.ie/content/dam/gowingmyself/promotions/brands/apple/iphone14-pro-max-lineup.png",
+      "id": 10
+    },
+    {
+      "name": "taddy",
+      "price": "49",
+      "color": "black tea",
+      "category": "soft drink",
+      "description": "drink for mood fresh",
+      "image": "https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/assets/images/products/s11.jpg",
+      "id": 11
+    },
+    {
+      "name": "bottles",
+      "price": "5000",
+      "color": "yellow",
+      "category": "bottle",
+      "description": "nice bottle",
+      "image": "https://www.junglescout.com/wp-content/uploads/2021/01/product-photo-water-bottle-hero.png",
+      "id": 12
+    },
+    {
+      "name": "Laptop",
+      "price": "23000",
+      "color": "gray",
+      "category": "electronics",
+      "description": "most demanding phone in the world",
+      "image": "https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/assets/images/products/s5.jpg",
+      "id": 13
+    },
+    {
+      "name": "coffee",
+      "price": "49",
+      "color": "black tea",
+      "category": "soft drink",
+      "description": "drink for mood fresh",
+      "image": "https://static.toiimg.com/photo/89078867.cms",
+      "id": 14
+    },
+    {
+      "name": "bluetooth",
+      "price": "1299",
+      "color": "yelloes-pink",
+      "category": "electronics",
+      "description": "best bluethooth ever",
+      "image": "https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/assets/images/products/s4.jpg",
+      "id": 15
+    }
+  ],
+  "cart": [
+    {
+      "name": "I Phone 13",
+      "image": "https://www.junglescout.com/wp-content/uploads/2021/01/product-photo-water-bottle-hero.png",
+      "color": "gray",
+      "category": "electronics",
+      "description": "234",
+      "price": 100000,
+      "createdAt": "2023-03-24T07:21:20.866Z",
+      "updatedAt": "2023-03-24T07:21:20.866Z",
+      "__v": 0,
+      "quantity": 1,
+      "userId": "6416e177f136f43f0ddc032b",
+      "productId": "641d4f70742bc2243916345b",
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "totalPrice": 149,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Nitish",
+      "lastName": "kumar",
+      "email": "n@gmail.com",
+      "phone": "1234455555",
+      "address": "main road",
+      "totalPrice": 100100,
+      "userId": "6416e177f136f43f0ddc032b",
+      "id": 2
+    }
+  ]
+}
